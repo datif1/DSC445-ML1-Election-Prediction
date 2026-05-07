@@ -1,7 +1,7 @@
-__pycache__/
-.ipynb_checkpoints/
-*.pyc
-.env
-
+# Processed data
 data/processed/*
+!data/processed/.gitkeep
+
+# Trained models
 models/*
+!models/.gitkeep
