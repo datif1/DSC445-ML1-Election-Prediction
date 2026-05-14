@@ -1,6 +1,7 @@
 # Processed data
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/*.csv
 
 # Trained models
 models/*
