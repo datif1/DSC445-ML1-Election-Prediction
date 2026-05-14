@@ -1,6 +1,6 @@
 # Exploratory Data Analysis Report
 
-## DSC 445 – Machine Learning 1 Final Project
+## DSC 445 – Machine Learning 1
 
 ### Predicting U.S. County-Level Presidential Voting Outcomes Using Demographic and Socioeconomic Features
 
