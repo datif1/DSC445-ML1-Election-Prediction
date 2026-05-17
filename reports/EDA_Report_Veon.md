@@ -101,7 +101,7 @@ The long-term trend shows counties trending more Republican since 2000, with a n
 | Dem wins count = 0 (never Dem) | ~2,200+ | Structural Republican counties |
 | Dem wins count = 7 (always Dem) | ~200+ | Structural Democratic counties |
 
-> **The extremely low flip rate (2.7%) confirms that historical voting behavior is the strongest predictor — counties that have voted Republican for 7 consecutive elections are very unlikely to flip, regardless of demographics.**
+> **The extremely low flip rate (2.7%) confirms that historical voting behavior is the strongest predictor  counties that have voted Republican for 7 consecutive elections are very unlikely to flip, regardless of demographics.**
 
 ---
 
