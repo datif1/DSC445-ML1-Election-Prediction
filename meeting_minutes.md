@@ -63,3 +63,13 @@ Attendance: Mohammed Atif Diwan, Veon Ivon Almeida, Yung Han Jeong
     - All: from the EDA reports suggest data engineering methods
     - Mohammed Atif Diwan: begin data engineering on completed report and start classification modeling
     - Yung Han Jeong: complete EDA and data engineering task, start on regression modeling
+
+### Meeting #4 - Next Steps Discussion (5/20/26)
+Attendance: Siddhesh Dayanand Patil, Yung Han Jeong
+
+- Met briefly and confirmed EDA findings. All members completed the EDA and pushed the results to github on their branch.
+- Updated finding on EDA and modeling steps will be posted on the MS teams. 
+- Action items
+    - Yung Han Jeong: post next steps/poll for modeling tasks on MS teams
+    - Unassigned: consolidate EDA report for final report generation
+    - Unassigned: begin outline of final reports. 
