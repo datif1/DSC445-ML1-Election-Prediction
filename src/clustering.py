@@ -259,3 +259,30 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+    """
+    results: 
+
+        Cluster 0: Rural Republican Counties
+        - 2,067 counties (66.4% of all counties)
+        - 1,989 Republican-winning counties
+        - Democrat county share: 3.8%
+
+        Cluster 1: Urban / Diverse / Highly Educated Counties
+        - 506 counties (16.2%)
+        - 283 Democrat-winning counties
+        - Democrat county share: 55.9%
+
+        Cluster 2: Competitive / Transitional Counties
+        - 542 counties (17.4%)
+        - 178 Democrat-winning counties
+        - Democrat county share: 32.8%
+
+        PCA explained variance ratio:
+        PC1 = 40.0%
+        PC2 = 29.3%
+        Total = 69.3%
+
+        Two principal components explain nearly 70% of the variation, which is excellent for future visualization.
+    
+    """
