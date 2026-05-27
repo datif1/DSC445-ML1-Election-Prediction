@@ -4,8 +4,7 @@
 Using Demographic and Socioeconomic Machine Learning Models
 
 **Author: Veon Ivon Almeida**  
-Project Team: Shang Andrews, Mohammed Atif Diwan, Yung Han Jeong, Siddhesh Dayanand Patil  
-DSC 445 — Machine Learning I | May 2025
+
 
 ---
 
@@ -240,5 +239,3 @@ The following columns must be excluded from all model training to prevent leakag
 - Perform SHAP analysis on tree-based models to confirm which features drive individual predictions
 
 ---
-
-*End of EDA Report — Veon Ivon Almeida — DSC 445*
