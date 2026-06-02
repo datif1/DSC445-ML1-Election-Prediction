@@ -1,0 +1,11 @@
+Model,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Logistic Regression,0.969,0.81,1.0,0.895,0.9968
+Decision Tree,0.9788,0.8696,0.9877,0.9249,0.9986
+Random Forest,0.9723,0.8333,0.9877,0.904,0.9972
+XGBoost,0.9918,0.9419,1.0,0.9701,0.999
+Naive Bayes,0.8956,0.7742,0.2963,0.4286,0.813
+Demo-Only Logistic Regression,0.8777,0.5227,0.8519,0.6479,0.9413
+Demo-Only Decision Tree,0.8777,0.5224,0.8642,0.6512,0.8784
+Demo-Only Random Forest,0.9364,0.7561,0.7654,0.7607,0.9636
+Demo-Only XGBoost,0.9413,0.8462,0.679,0.7534,0.9663
+Demo-Only Naive Bayes,0.8956,0.7742,0.2963,0.4286,0.8012
