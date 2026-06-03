@@ -73,3 +73,24 @@ Attendance: Siddhesh Dayanand Patil, Yung Han Jeong
     - Yung Han Jeong: post next steps/poll for modeling tasks on MS teams
     - Unassigned: consolidate EDA report for final report generation
     - Unassigned: begin outline of final reports. 
+
+### Meeting #5 - Final Presentation and Report Preparation (6/2/26)
+Attendance: all members
+
+- All members met to discuss consolidation efforts for preparing and creating the final presentation and reports.
+- Modeling results of Atif and Siddhesh were chosen as the top performers for the basis of the presentation and reports.
+- Atif presented a skeleton of the presentation slides and the script for the group to edit and review
+- Siddhesh volunteered to organized and update the slides for the final presentation
+- Action items
+    - all: edit and practice respective presentation section for the presentation
+    - Siddhesh: update the slides for final presentation
+    - Yung: begin consolidation of the final report based on the presentation and everyone's individual work.
+
+### Meeting #6 - Final Presentation Rehersal (6/3/26)
+Attendance: Mohammed Atif Diwan, Shang Andrews, Veon Ivon Almeida, Yung Han Jeong
+
+- Members met to discuss and rehearse the final presentation. The rehearsal met the practice target and the time limit given for the presentation.
+- Final draft of the group report was briefly discussed for editing before the submission
+- Action items
+    - All: final confirmation on the script for Atif for smooth slide control
+    - All: review the group report draft for final edits
